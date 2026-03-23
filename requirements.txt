@@ -1,0 +1,6 @@
+mcp
+sqlite-vec
+fastembed
+sentence-transformers
+torch
+requests
